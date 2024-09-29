@@ -2,7 +2,8 @@ import React from 'react'
 
 const SimilarExercises = () => {
   return (
-    <div>SimilarExercises</div>
+    <div>SimilarExercises...</div>
+    //This is just for learning git
   )
 }
 
